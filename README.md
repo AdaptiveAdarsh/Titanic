@@ -34,3 +34,7 @@ This is a supervised machine learning data science project.
 # Titanic Survivors Dashboard using Power BI
 The Titanic Survivors Dashboard using PowerBI project primarily focuses on analyzing data and factors are the cause of the death and survive.
 ![Screenshot 2024-03-08 135613](https://github.com/AdaptiveAdarsh/Titanic/assets/145101949/eb209c50-3533-41ee-aa6e-172f0f9a564d)
+![Screenshot 2024-03-08 135637](https://github.com/AdaptiveAdarsh/Titanic/assets/145101949/589cfc4a-a4d3-4096-a192-701215d8f8b6)
+![Screenshot 2024-03-08 135654](https://github.com/AdaptiveAdarsh/Titanic/assets/145101949/beb78912-683f-4951-9157-c98c7becfe5b)
+
+
